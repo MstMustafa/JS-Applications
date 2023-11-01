@@ -6,4 +6,4 @@
 
 
 ## Overview
-- 
+- **Asynchronous Programming**: This section covers tasks related to handling asynchronous operations in JavaScript.
