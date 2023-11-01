@@ -3,3 +3,7 @@
 <div align="center">
     <p>This repository contains tasks and projects related to the JavaScript Applications course by SoftUni.</p>
 </div>
+
+
+## Overview
+- 
