@@ -8,3 +8,4 @@
 ## Overview
 - **Asynchronous Programming**: This section covers tasks related to handling asynchronous operations in JavaScript.
 - **Remote Data and Authentication**
+- **Single Page Applications SPA**: This section delves into tasks associated with building and optimizing Single Page Applications in JavaScript. 
